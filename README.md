@@ -1,2 +1,2 @@
 # hello-world
-Doing a funny business
+Funny business
