@@ -1,0 +1,43 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+    
+    int userNumx; 
+    int userNumalfa;	
+    int numPi [3.14]
+    int radianes [numPi*userNumalfa/180]
+    int h;
+    
+int main (){
+    
+    cout << "Vamos a ver si existen limitaciones a la circulación de su vehículo" << endl;
+    cout << "Situese a una distancia X del vehículo y mida el ángulo ALFA en grados que forman la linea visual entre usted y el techo del vehículo" << endl; 
+    
+    
+    cout << "Introduzca x" << endl; 
+    cin >> userNumx; 
+    
+    cout << "Introduzca Alfa" << endl; 
+    cin >> userNumalfa;
+    
+    if h < 2,2 
+    cout << "El vehiculo no puede circular";
+	 
+    if h < 4
+    cout << "Su vehículo no tiene limitacion alguna de circulacion";
+    
+    if h > 4
+    cout << "No puede circular por la ciudad, salvo en horario de carga y descarga";
+    
+    
+    if  userNum = 2 metros, userNumalfa = 45, H = 2 (caso a)
+    if  userNum = 2 metros, userNumalfa = 56.31, H = 3 (caso b)
+    if  userNum = 2 metros, userNumalfa = 63.43, H = 4 (caso c)
+
+
+    
+    
+		return 0;
+	}
+	
+	
